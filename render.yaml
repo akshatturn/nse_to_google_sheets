@@ -1,0 +1,6 @@
+services:
+  - type: worker
+    name: nse-to-sheet-worker
+    runtime: python
+    buildCommand: ""
+    startCommand: "python main.py"
