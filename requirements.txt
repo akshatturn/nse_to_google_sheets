@@ -1,3 +1,5 @@
 requests
 gspread
 oauth2client
+uvicorn
+fastapi
